@@ -1,0 +1,399 @@
+
+#newsletter {
+    background: url(../assets/img/count-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+}
+
+#newsletter .counter-box {
+    padding: 20px 15px;
+    background: rgba(255, 255, 255, 0.1) none repeat scroll 0 0;
+    overflow: hidden;
+    border-radius: 0px;
+    box-shadow: 0px 9px 16px 0px rgba(225, 225, 225, 0.004);
+    text-align: center;
+    position: relative;
+}
+
+#newsletter .counter-box .icon-o {
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.navbar-brand{
+    width:200px;
+    height:80px;
+}
+
+.custom-padding{
+	padding: 80px 20px;
+}
+
+.topfooter {
+    background: #76bd43;
+    padding: 15px;
+}
+
+.topfooter p {
+    line-height: 60px;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+}
+
+
+
+.copyright .footer-logo img {
+    width:auto;
+    max-height: 60px;
+}
+
+.feature-bg{
+	background: #76bd43;
+}
+
+.btn-common {
+    background-color: #76bd43;
+}
+
+.navbar{
+  height: 150px;
+}
+
+.navbar-brand-ecash{
+  width: 200px;
+  height: 130px;
+}
+
+.navbar-brand-ecash img{
+  width: auto;
+  height: 130px;
+}
+
+.push-logo{
+  margin-right: 20%;
+}
+
+.navbar-brand{
+  padding-top: 10px;
+    width:180px;
+    height:150px;
+}
+
+.navbar-brand img {
+    width: auto;
+    height: 145px;
+    display: block;
+}
+
+.contact-right .contact-icon {
+    background: #76bd43;
+ }
+
+ #contact .form-control{
+ 	border-color:#76bd43;
+ }
+
+ #reasons img{
+ 	width: 100%;
+ 	height: auto;
+ }
+
+ #hero-area {
+  
+     background: url(../assets/img/hero-bg-new.jpg) no-repeat;
+     background-size: cover;
+     padding: 95px 20px;
+ }
+
+ .contents, .img-thumb{
+ 	margin-top: 40%;
+ }
+
+  .contents{
+  	padding: 0 !important;
+  }
+
+  .navbar-expand-md .navbar-nav .nav-link {
+    font-family: 'Titillium Web', sans-serif;
+    color: #fff;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/*terms and condition */
+#terms  .navbar-expand-md .navbar-nav .nav-link {
+    font-family: 'Titillium Web', sans-serif;
+    color: #000;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+
+.navbar-expand-md .navbar-nav .active > .nav-link, .navbar-expand-md .navbar-nav .nav-link.active, .navbar-expand-md .navbar-nav .nav-link.open, .navbar-expand-md .navbar-nav .open > .nav-link {
+    color: #76bd43 !important;
+}
+
+#header-wrap .nav-link:hover{
+	color:#76bd43 !important;
+}
+
+#header-wrap .nav-item.active .nav-link{
+	color:#76bd43 !important;
+}
+
+.list-column .nav-link{
+    color:#fff;
+    padding: 0.45rem;
+}
+
+.feature-item .icon{
+    width: 50px;
+    height: 50px;
+}
+
+.feature-item .icon i{
+    line-height: 50px;
+    font-size: 22px;
+}
+
+.feature-content {
+    margin-left: 60px;
+}
+
+.feature-item {
+    padding: 20px;
+}
+
+.site-bg{
+    background-color: #76bd43 !important;
+}
+
+#newsletter .form-control{
+    margin-bottom: 0;
+    border:2px solid #76bd43;
+}
+
+.list-column .nav-link{
+   display: flex;
+   align-items: center;
+}
+
+.list-heading{
+    font-size: 1.2rem;
+    color:#fff;
+    /*height: 70px;*/
+}
+.list-heading_black{
+    font-size: 1.2rem;
+    color:#050505!important;
+    height: 70px;
+}
+.check-text{
+    margin-left: 1rem;
+    display: inline-block;
+}
+
+.team-modal .modal-header{
+    padding:0;
+    border-bottom: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.team-modal .modal-header .close{
+    line-height: 0;
+    position: absolute;
+    top: 22px;
+    z-index: 3;
+    right: 20px;
+    color: #fff;
+    font-size: 3rem;
+}
+
+.modal-dialog{
+   margin: 6.75rem auto;
+}
+
+.team-modal .modal-body{
+    padding: 0;
+}
+
+.testimonial {
+    background: #34363a;
+    position: relative;
+    background: url(../assets/img/testimonial.jpg);
+}
+
+a.back-to-top i{
+    background-color: #76bd43;
+}
+
+.footer-modal-bg{
+    background-color: #DB690D;
+}
+
+.footer-modal-title{
+    text-transform: uppercase;
+    font-size: 1.6rem;
+}
+
+#loan{
+    background: url('../assets/img/financial.jpg') no-repeat;
+    background-size: cover;
+}
+
+.slidecontainer {
+  width: 100%;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 25px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  background: #000;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: #000;
+  cursor: pointer;
+}
+
+.dark-overlay{
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.slide-content{
+    background-color: rgba(219, 105, 13, 0.7);
+}
+
+.slider-label{
+    font-size: 1.4rem;
+    color:#fff;
+    margin-bottom: 15px;
+    padding-left:15px;
+}
+
+.slidecontainer .slider{
+    margin-bottom: 20px;
+}
+
+.slidecontainer .col-form-label{
+  color:#fff;
+  font-size: 1.7rem;
+  line-height: 0.8rem;
+}
+
+.data-form .form-control,
+.btn-data-form{
+  border-radius: 25px;
+  padding: 15px 65px;
+}
+
+.btn-data-form{
+  background-color: #76BD43;
+}
+
+.data-form-label{
+  color:#fff;
+  font-size: 1rem;
+}
+
+.modal-form-left{
+  background-color: #B7DC9C;
+}
+
+.modal-form-right{
+  background-color: #A05010;
+}
+
+#formModal .modal-body{
+  padding: 0;
+}
+
+.reduce-p{
+  padding:0.7rem 1rem !important;
+}
+
+.custom-file{
+  margin-bottom: 20px;
+}
+
+.btn-dwn{
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.form-color-bg{
+  background-color: #FC4120;
+}
+
+.btn-submit{
+  background-color: #994A0B;
+}
+
+.btn-text{
+  font-size: 1.3rem;
+  font-style: italic;
+}
+
+.btn-text:hover{
+  color:#fff;
+}
+
+#service .img-fluid{
+  width: 100%;
+  height: auto;
+}
+#customer_pref{
+  color: #050505;
+}
+#customer_pref .blk a{
+  color: #050505;
+}
+#p-white{
+  color: #ffff;
+}
+
+.account{
+      background: #f9f9f9;
+}
+
+.account .navbar-expand-md .navbar-nav .nav-link {
+    font-family: 'Titillium Web', sans-serif;
+    color: #000;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.account .navbar-expand-md .navbar-nav .nav-link {
+    font-family: 'Titillium Web', sans-serif;
+    color: #585b60;
+    font-weight: 600;
+    padding: 8px 10px;
+    line-height: 40px;
+    text-transform: uppercase;
+    cursor: pointer;
+    background: none !important;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
